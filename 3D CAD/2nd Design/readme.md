@@ -2,8 +2,8 @@
 So this design is *way* better than the previous version.  
 Shout out to gregerw (https://github.com/gregerw/Split-flap-display) for his brillant idea on the structure. ~~I copied it~~  
 However, it is going to cost more than the previous design. All the structure of this design is going to be 3D printed.  
-
   
+**This design might be too big tho**
 
 ## Component (Provisonal)  
 Motor: 2x 28BYJ-48 (5V) *should be ok?*  
