@@ -11,7 +11,7 @@ Hall effect sensor: 2x KY-003
 Controller: 1x Arduino Nano  
 Power source: 2x 18650 in serial
 
-Trying to control 2x 28BYJ-48 motor with 1x ULN2003. However, ULN2003 only have 7 in and out pins. 74HC959 may be needed?  
+Trying to control 2x 28BYJ-48 motor with 1x ULN2003. However, ULN2003 only have 7 in and out pins and I need 8. 74HC959 may be needed?  
 
   
 
