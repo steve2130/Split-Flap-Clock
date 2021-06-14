@@ -1,6 +1,6 @@
 # Test  
-Use your hands instead of using motor.  
-Motor are super overrated isn't it?  
+Use your hands instead of using a motor.  
+Motors are super overrated aren't they?  
   
 Check the 3D model to understand what's happening.  
 You can get the 2D drawings of the shell and flaps from here  
