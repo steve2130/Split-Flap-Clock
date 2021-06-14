@@ -1,5 +1,5 @@
 # Test  
-Use your hands instead of using a motor.  
+Use your hands instead of using motors.  
 Motors are super overrated aren't they?  
   
 Check the 3D model to understand what's happening.  
