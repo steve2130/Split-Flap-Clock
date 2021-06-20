@@ -4,7 +4,7 @@ Here you can find some 2D drawing.
     
 If you want to build this version as a prototype like me, remember that this design is designed to build with 2mm thick cardboard.  
 Flaps and the shell/outer structure should be made with cardboard.  
-Black cardboard looks way better than other colors for me.  
+Black cardboard looks way better than other colors imo.  
   
   
 Remember that this design is only for test.  
