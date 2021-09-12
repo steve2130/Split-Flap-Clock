@@ -6,8 +6,8 @@ int val1;
 int val2;
 long previousMillis = 0;
 int StepperCountstep = 0;
-Unistep2 stepperX(14, 12, 13, 15, 4096, 1000);// IN1, IN2, IN3, IN4, 總step數, 每步的延遲(in micros)
-Unistep2 stepperY(5, 4, 0, 2, 4096, 1000);// IN1, IN2, IN3, IN4, 總step數, 每步的延遲(in micros)
+Unistep2 stepperX(14, 12, 13, 15, 4096, 1000);
+Unistep2 stepperY(5, 4, 0, 2, 4096, 1000);
 int StepperStep = 137;
 bool calibrating = false;
 
@@ -25,7 +25,7 @@ void loop() {
   val1 = digitalRead(sensor1);
   val2 = digitalRead(sensor2);
   if (val1 == LOW) {
-    digitalWrite(LED_BUILTIN, LOW);   // turn the LED on (HIGH is the voltage level)
+    digitalWrite(LED_BUILTIN, LOW);  
     stepperX.run();
     stepperY.run();
     stepperX.moveTo(0);
@@ -33,7 +33,7 @@ void loop() {
   }
 
     if (val2 == LOW) {
-    digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+    digitalWrite(LED_BUILTIN, HIGH);   
     long currentMillis = millis();
         if (currentMillis - previousMillis >= 2000) {
            previousMillis = currentMillis;
