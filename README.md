@@ -4,7 +4,7 @@ So I try to make one.
 
 So this flap clock is basically a clone of Solari Cifra 3 (the same company who made airports' flap boards). Instead of making a simple clock like Cifra 3, I decided to fuck myself up and make one that has different functions. Timer, Stopwatch, auto update time with a NTP server, something like that. 
 
-So basically you will see some fucked up CADs and some stupid code in the future. Hopefully I can actually make a workable clock. :)
+So basically you will see some fucked up CADs and some stupid code in the future. Hopefully I can actually make a workable clock. 
   
 ## Extra reading  
 gregerw (https://github.com/gregerw/Split-flap-display)  
@@ -14,7 +14,7 @@ Danica Evering (http://solaris.concordia.ca/)
 TheBeachLab (https://github.com/TheBeachLab/alphabets/tree/master/V1)  
 Scott Bezek (https://github.com/scottbez1/splitflap)  
   
-Some parents from the Vestaboard guys  
+Some parents from the Vestaboard  
 https://patents.google.com/patent/US10699605B1  
 https://patents.google.com/patent/US20210005116A1  
-(No copying)
+
