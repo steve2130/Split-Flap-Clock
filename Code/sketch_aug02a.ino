@@ -53,7 +53,6 @@ void loop() {
       
       if ( stepperX.stepsToGo() == 0 ){ 
       stepperX.move(2500);
-
       }
     }
   }
